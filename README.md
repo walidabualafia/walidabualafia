@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-##### Programmer. Family guy. Cat dad. Coffee Connoisseur.
+##### Programmer. Keyboard enthusiast. Cat dad. Coffee Connoisseur.
 
 A little about me:
 - 🔭 I’m in _HPC Engineering_ @ __St. Jude__

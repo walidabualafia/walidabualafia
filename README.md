@@ -1,15 +1,16 @@
 ## Hello, World! 👋
 
-#### I am Walid.
+#### I am Walid (he/him).
 
 ##### Programmer. Keyboard enthusiast. Cat dad. Coffee Connoisseur.
 
 A little about me:
 - 🔭 I’m in _HPC Engineering_ @ __St. Jude__
 - 🌱 I’m currently a senior in _Computer Science_ @ __Rhodes College__
-- 👯 I’m looking to learn _React_ through rebuilding my portfolio website!
+- 👯 I’m looking to learn more about _AI for Scientific Applications_!
 - 📫 How to reach me: I prefer [LinkedIn](https://www.linkedin.com/in/abualafia/ "Walid's LinkedIn!"), but email should be okay!
 - 💻 Check out [my website](https://abualafia.com "Walid's Portfolio Website!")!
+- 💬 Ask me about HPC and how I got interested. Let's chat!
 
 <!--
 **walidabualafia/walidabualafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,8 +5,8 @@
 ##### Programmer. Keyboard enthusiast. Cat dad. Coffee Connoisseur.
 
 A little about me:
-- 🔭 I’m in _HPC Engineering_ @ __St. Jude__
-- 🌱 I’m currently a senior in _Computer Science_ @ __Rhodes College__
+- 🔭 I’m an _HPC Computational Engineer_ @ __St. Jude__
+- 🌱 Bachelor of Science in _Computer Science_ @ __Rhodes College__ (2023)
 - 👯 I’m looking to learn more about _AI for Scientific Applications_!
 - 📫 How to reach me: I prefer [LinkedIn](https://www.linkedin.com/in/abualafia/ "Walid's LinkedIn!"), but email should be okay!
 - 💻 Check out [my website](https://abualafia.com "Walid's Portfolio Website!")!

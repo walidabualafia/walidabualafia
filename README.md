@@ -6,6 +6,7 @@
 
 A little about me:
 - 🔭 I’m an _HPC Computational Engineer_ @ __St. Jude__
+- ✨ M.S. _Computer Science_ @ __University of Texas at Austin__ (2027)
 - 🌱 Bachelor of Science in _Computer Science_ @ __Rhodes College__ (2023)
 - 👯 I’m looking to learn more about _AI for Scientific Applications_!
 - 📫 How to reach me: I prefer [LinkedIn](https://www.linkedin.com/in/abualafia/ "Walid's LinkedIn!"), but email should be okay!

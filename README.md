@@ -18,14 +18,6 @@
 
 ### My Portfolio
 
-<a href="https://abualafia.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/walidabualafia/walidabualafia/assets/dark-preview.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/walidabualafia/walidabualafia/assets/light-preview.svg">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fabualafia.com&screenshot=true&meta=false&embed=screenshot.url&type=png&viewport.isMobile=false&viewport.width=1280&viewport.height=720&overlay.browser=dark" alt="abualafia.com — Walid's Portfolio" width="100%" />
-  </picture>
-</a>
-
 <p>
   <a href="https://abualafia.com">
     <img src="https://img.shields.io/badge/abualafia.com-Visit_My_Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />

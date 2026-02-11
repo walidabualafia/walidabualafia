@@ -1,25 +1,57 @@
-## Hello, World! 👋
+# Hey there, I'm Walid! 👋
 
-#### I am Walid (he/him).
+**Programmer · Keyboard Enthusiast · Cat Dad · Coffee Connoisseur**
 
-##### Programmer. Keyboard enthusiast. Cat dad. Coffee Connoisseur.
+---
 
-A little about me:
-- 🔭 I’m an _HPC Computational Engineer_ @ __St. Jude__
-- ✨ M.S. _Computer Science_ @ __University of Texas at Austin__ (2027)
-- 🌱 B.S. _Computer Science_ @ __Rhodes College__ (2023)
-- 👯 I’m looking to learn more about _AI for Scientific Applications_!
-- 📫 How to reach me: I prefer [LinkedIn](https://www.linkedin.com/in/abualafia/ "Walid's LinkedIn!"), but email should be okay!
-- 💻 Check out [my website](https://abualafia.com "Walid's Portfolio Website!")!
-- 💬 Ask me about HPC and how I got interested. Let's chat!
+### About Me
 
-<!--
-**walidabualafia/walidabualafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 &nbsp; HPC Computational Engineer @ **St. Jude**
 
-Here are some ideas to get you started:
+✨ &nbsp; M.S. Computer Science @ **University of Texas at Austin** (2027)
 
-- 💬 Ask me about HPC and how I got interested!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cats
-- 🤔 I’m looking for help with ...
--->
+🌱 &nbsp; B.S. Computer Science @ **Rhodes College** (2023)
+
+🧠 &nbsp; Currently exploring **AI for Scientific Applications**
+
+---
+
+### My Portfolio
+
+<a href="https://abualafia.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/walidabualafia/walidabualafia/assets/dark-preview.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/walidabualafia/walidabualafia/assets/light-preview.svg">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fabualafia.com&screenshot=true&meta=false&embed=screenshot.url&type=png&viewport.isMobile=false&viewport.width=1280&viewport.height=720&overlay.browser=dark" alt="abualafia.com — Walid's Portfolio" width="100%" />
+  </picture>
+</a>
+
+<p>
+  <a href="https://abualafia.com">
+    <img src="https://img.shields.io/badge/abualafia.com-Visit_My_Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
+  </a>
+  &nbsp;
+  <a href="https://abualafia.com/abualafia-curriculum-vitae.pdf">
+    <img src="https://img.shields.io/badge/Download-Curriculum_Vitae-2D9CDB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+</p>
+
+---
+
+### Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/abualafia/">
+    <img src="https://img.shields.io/badge/LinkedIn-abualafia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:walid@utexas.edu">
+    <img src="https://img.shields.io/badge/Email-walid%40utexas.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/walidabualafia">
+    <img src="https://img.shields.io/badge/GitHub-walidabualafia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+💬 &nbsp; Ask me about HPC and how I got interested — let's chat!

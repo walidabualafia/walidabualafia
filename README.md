@@ -21,7 +21,7 @@ Computational Engineer II @ **St. Jude Children's Research Hospital**
 
 ### Now.
 
-- Building **AI infrastructure** that turns research intent into running pipelines: production MCP servers, agent harnesses, and MLOps tooling.
+- Building **AI infrastructure** that turns research intent into running pipelines: production MCP servers, agent harnesses, skill scanners, and MLOps tooling.
 - Designing **agentic workflows** that let researchers describe an analysis in plain language and have it scheduled, run, and monitored on the cluster, with observability built in from the start.
 - Operating the **HPC systems** behind them: 55,000+ CPU cores and 2,500+ GPUs across six clusters.
 - Keeping **research storage** fast and organized: helped migrate 30+ PB of cryo-EM/ET imaging data, and tune parallel storage so I/O-heavy pipelines and GPU training jobs aren't left waiting on data.

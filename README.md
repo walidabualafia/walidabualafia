@@ -1,49 +1,43 @@
-# Hello World! I'm Walid! 👋
+<div align="center">
 
-**Programmer · Keyboard Enthusiast · Cat Dad · Coffee Connoisseur**
+# Hi, I'm Walid.
 
----
+### Building the systems behind the science.
 
-### About Me
+Computational Engineer II @ **St. Jude Children's Research Hospital**
 
-🔭 &nbsp; HPC Computational Engineer @ **St. Jude**
+<sub>Programmer · Keyboard Enthusiast · Cat Dad · Coffee Connoisseur</sub>
 
-✨ &nbsp; M.S. Computer Science @ **University of Texas at Austin** (2027)
+<br>
 
-🌱 &nbsp; B.S. Computer Science @ **Rhodes College** (2023)
+<a href="https://abualafia.com"><img src="https://img.shields.io/badge/abualafia.com-19724a?style=flat-square" alt="Website" /></a>
+<a href="https://abualafia.com/abualafia-curriculum-vitae.pdf"><img src="https://img.shields.io/badge/Resume-19724a?style=flat-square" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/abualafia/"><img src="https://img.shields.io/badge/LinkedIn-19724a?style=flat-square" alt="LinkedIn" /></a>
+<a href="mailto:walid@utexas.edu"><img src="https://img.shields.io/badge/walid@utexas.edu-19724a?style=flat-square" alt="Email" /></a>
 
-🧠 &nbsp; Currently exploring **AI for Scientific Applications**
-
----
-
-### My Portfolio
-
-<p>
-  <a href="https://abualafia.com">
-    <img src="https://img.shields.io/badge/abualafia.com-Visit_My_Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
-  </a>
-  &nbsp;
-  <a href="https://abualafia.com/abualafia-curriculum-vitae.pdf">
-    <img src="https://img.shields.io/badge/Download-Curriculum_Vitae-2D9CDB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-  </a>
-</p>
+</div>
 
 ---
 
-### Let's Connect
+### Now.
 
-<p>
-  <a href="https://www.linkedin.com/in/abualafia/">
-    <img src="https://img.shields.io/badge/LinkedIn-abualafia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:walid@utexas.edu">
-    <img src="https://img.shields.io/badge/Email-walid%40utexas.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/walidabualafia">
-    <img src="https://img.shields.io/badge/GitHub-walidabualafia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- Building **AI infrastructure** that turns research intent into running pipelines: production MCP servers, agent harnesses, and MLOps tooling.
+- Operating the **HPC systems** behind them: 55,000+ CPU cores and 2,500+ GPUs across six clusters.
+- Studying for an **M.S. in Computer Science** at UT Austin (expected 2028).
 
-💬 &nbsp; Ask me about HPC and how I got interested — let's chat!
+### Along the way.
+
+| Year | Milestone |
+| :--- | :--- |
+| 2026 | St. Jude Living Our Values Honoree |
+| 2025 | NVIDIA Certified Associate: AI Infrastructure & Operations |
+| 2023 | Published at IEEE/RSJ IROS 2023 |
+| 2023 | B.S. Computer Science, Rhodes College, Magna Cum Laude |
+
+---
+
+<div align="center">
+
+Ask me about HPC and how I got into it. Good things start with a conversation. ↗
+
+</div>
